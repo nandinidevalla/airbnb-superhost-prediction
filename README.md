@@ -84,8 +84,8 @@ README.md # Project documentation
 
 ## 📎 Files
 
-- 📊 [Jupyter Notebook](./notebooks/airbnb_superhost_prediction.ipynb)
-- 🧠 [Final Deck](./presentation/Predicting-Superhost-Status-A-Data-Driven-Approach.pptx)
+- 📊 [Jupyter Notebook](./notebook/airbnb_superhost_prediction.ipynb)
+- 🧠 [Final Deck](./presentation/Predicting-Superhost-Status-A-Data-Driven-Approach-gamma.pptx)
 
 ---
 
